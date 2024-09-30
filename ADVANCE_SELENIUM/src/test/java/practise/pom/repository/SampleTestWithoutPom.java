@@ -14,7 +14,11 @@ public class SampleTestWithoutPom {
 	public void Test() {
 		// TODO Auto-generated method stub
 		
+
 		System.out.println(" merge conflict 1");
+
+		System.out.println("merge conflict 13");
+
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
