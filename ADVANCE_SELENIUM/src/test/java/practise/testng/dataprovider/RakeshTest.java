@@ -7,6 +7,7 @@ public class RakeshTest {
 	public void addingTest()
 	{
 		System.out.println(" rakesh test createf for push purp[oses new file created");
+		System.out.println(" writing for this to check merge conflicts");
 	}
 
 }
