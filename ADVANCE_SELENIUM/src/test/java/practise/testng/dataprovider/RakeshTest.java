@@ -11,6 +11,7 @@ public class RakeshTest {
 		//adding lines
 		
 		System.out.println(" adding merge conflict 3");
+		System.out.println(" Rakesh2 merge conflicit");
 	}
 
 }
