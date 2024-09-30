@@ -17,7 +17,7 @@ public class SampleTestWithoutPom {
 		
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 		driver.get("http://localhost:8888/");
 		WebElement ele1=driver.findElement(By.name("user_name"));
 		WebElement ele2=driver.findElement(By.name("user_password"));
