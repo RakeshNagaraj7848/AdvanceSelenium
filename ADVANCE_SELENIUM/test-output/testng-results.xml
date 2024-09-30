@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-14T09:40:18 IST" name="Default suite" finished-at="2024-09-14T09:40:18 IST" duration-ms="144">
+    <groups>
+    </groups>
+    <test started-at="2024-09-14T09:40:18 IST" name="Default test" finished-at="2024-09-14T09:40:18 IST" duration-ms="144">
+      <class name="practise.common.congiguration.annotation.A">
+        <test-method is-config="true" signature="bs1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="bs1" finished-at="2024-09-14T09:40:18 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs1 -->
+        <test-method is-config="true" signature="bc1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="bc1" finished-at="2024-09-14T09:40:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc1 -->
+        <test-method is-config="true" signature="bc2()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="bc2" finished-at="2024-09-14T09:40:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc2 -->
+        <test-method is-config="true" signature="bm1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="bm1" finished-at="2024-09-14T09:40:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm1 -->
+        <test-method signature="add()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="add" finished-at="2024-09-14T09:40:18 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method is-config="true" signature="am1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="am1" finished-at="2024-09-14T09:40:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am1 -->
+        <test-method is-config="true" signature="bm1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="bm1" finished-at="2024-09-14T09:40:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm1 -->
+        <test-method signature="delete()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="delete" finished-at="2024-09-14T09:40:18 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method is-config="true" signature="am1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="am1" finished-at="2024-09-14T09:40:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am1 -->
+        <test-method is-config="true" signature="bm1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="bm1" finished-at="2024-09-14T09:40:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm1 -->
+        <test-method signature="m1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="m1" finished-at="2024-09-14T09:40:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method is-config="true" signature="am1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="am1" finished-at="2024-09-14T09:40:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am1 -->
+        <test-method is-config="true" signature="bm1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="bm1" finished-at="2024-09-14T09:40:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm1 -->
+        <test-method signature="multiply()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="multiply" finished-at="2024-09-14T09:40:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply -->
+        <test-method is-config="true" signature="am1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="am1" finished-at="2024-09-14T09:40:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am1 -->
+        <test-method is-config="true" signature="bm1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="bm1" finished-at="2024-09-14T09:40:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm1 -->
+        <test-method signature="sub()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="sub" finished-at="2024-09-14T09:40:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method is-config="true" signature="am1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="am1" finished-at="2024-09-14T09:40:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am1 -->
+        <test-method is-config="true" signature="as1()[pri:0, instance:practise.common.congiguration.annotation.A@5b12b668]" started-at="2024-09-14T09:40:18 IST" name="as1" finished-at="2024-09-14T09:40:18 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as1 -->
+      </class> <!-- practise.common.congiguration.annotation.A -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
