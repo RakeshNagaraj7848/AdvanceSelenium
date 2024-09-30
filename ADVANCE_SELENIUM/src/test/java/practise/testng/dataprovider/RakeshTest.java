@@ -7,9 +7,9 @@ public class RakeshTest {
 	public void addingTest()
 	{
 
-		System.out.println(" rakesh nagaraj");
+		System.out.println(" rakesh nagaraj2");
 
-		System.out.println(" rakesh pawar");
+		System.out.println(" rakesh pawar2");
 
 	}
 
